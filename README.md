@@ -1,5 +1,5 @@
 # Descripció
-Aquesta aplicació representa una funció cuadràtica la qual representa una paràbola convexa. Aquesta está definida com "f(x)=((5-x)*(x^2))/x", on la variable x és el cops que l'usuari prem el botó "A". 
+Aquesta aplicació es basa en una funció cuadràtica la qual representa una paràbola convexa. Aquesta está definida com "f(x)=((5-x)*(x^2))/x", on la variable x és el cops que l'usuari prem el botó "A". 
 Per pantalla s'imprimirá els "x" primers números de la secuència esmentada (0, 4, 6, 6, 4,...) :boom: :+1:
 En executarla, es motrarà un :ghost: per pantalla y un missatge. Posteriorment l'usuari podrá inetectuar amb aquesta. :metal:
 > Abra esta pagina en [https://pedromarrodan.github.io/microbit-pedro-marrodan/](https://pedromarrodan.github.io/microbit-pedro-marrodan/)
